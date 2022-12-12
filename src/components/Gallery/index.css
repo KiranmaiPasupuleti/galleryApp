@@ -1,0 +1,12 @@
+/* Write your code here. */
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  padding: 30px;
+}
+/* .big-image {
+  align-self: center;
+} */
+.thumbnails-container {
+  display: flex;
+}
